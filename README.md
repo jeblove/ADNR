@@ -12,7 +12,7 @@
 
 下载脚本ADNR.sh
 
-wget -P ~/UserSetting https://gitee.com/jeblove/ADNR/raw/master/ADNR.sh
+wget -P ~/UserSetting https://raw.githubusercontent.com/jeblove/ADNR/master/ADNR.sh
 
 设置权限
 
@@ -32,7 +32,7 @@ crontab -e
 
 方法二：每隔30秒检测一遍
 
-wget -P ~/UserSetting https://gitee.com/jeblove/ADNR/raw/master/SADNR.sh
+wget -P ~/UserSetting https://raw.githubusercontent.com/jeblove/ADNR/master/SADNR.sh
 
 设置权限
 
